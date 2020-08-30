@@ -6,7 +6,9 @@
     4. null
     5. object
     6. array
-- Formatting: "Key":<VALUE>, where <VALUE> can be  any of the 6 types listed above
+- Formatting: <b>"Key":<i>[VALUE]</i></b>
+    - [VALUE] can be any of the 6 types listed above
+    - keys MUST BE strings
 ```json5
 [
     { // JSON Object
