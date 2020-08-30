@@ -1,0 +1,30 @@
+[
+    {
+      "ID": 0,
+      "Name": "Varshika",
+      "Language": "c++",
+      "LovesShell": false,
+      "Hobbies": ["sleeping", "programming", "watching tv"]
+    },
+    {
+      "ID": 1,
+      "Name": "Omar",
+      "Language": "java",
+      "LovesShell": true,
+      "Hobbies": ["learning SQL", "buying macbooks"]
+    },
+    {
+      "ID": 2,
+      "Name": "Kevin",
+      "Language": "javascript",
+      "LovesShell": true,
+      "Hobbies": ["skateboarding", "coding", "sleeping", "hanging out"]
+    },
+    {
+      "ID": 3,
+      "Name": "Smruti",
+      "Language": "python",
+      "LovesShell": false,
+      "Hobbies": ["bubble tea", "sleeping", "front-end dev"]
+    }
+]
